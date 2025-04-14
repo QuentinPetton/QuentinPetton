@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quentin Petton</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [Pay API website](https://github.com/QuentinPetton/payApi-multisite)
+- 🔭 I’m currently working on [ecommerce-audiophile-frontend](https://github.com/QuentinPetton/ecommerce-audiophile-frontend) and [ecommerce-audiophile-backend](https://github.com/QuentinPetton/ecommerce-audiophile-backend) 
 
 - 🌱 I’m currently learning **Angular, Spring Boot**
 
