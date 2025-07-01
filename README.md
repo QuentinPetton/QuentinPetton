@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Quentin Petton</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently working on a **medical equipment management platform**, designed to simplify rental, purchase, and maintenance requests for EHPADs, healthcare providers (PSDM), and purchasing centers.
+- 🔭 I’m currently working on **MediHub**, a **medical equipment management platform**, designed to simplify rental, purchase, and maintenance requests for EHPADs, healthcare providers (PSDM), and purchasing centers.
 
-- 🌱 I’m currently learning and deepening my knowledge in **Angular 19+, Spring Boot, and n8n** for workflow automation and AI integration.
+- 🌱 I’m currently learning and deepening my knowledge in **Angular 20, Spring Boot 21, and n8n** for workflow automation and AI integration.
 
 
 ## 🌐 Socials:
