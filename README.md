@@ -13,6 +13,39 @@
   </a>
 </p>
 
+
+## 🚀 Projects
+
+### 🩺 [MediHub](https://github.com/QuentinPetton/MediHub)
+
+> A medical equipment management platform to handle rentals, maintenance (SAV), and purchase requests across EHPADs and medical suppliers.  
+> 🛠️ Built with **Angular 20**, **Spring Boot**, **PrimeNG**.
+> Work in progress.
+
+- 💻 [GitHub Repository](https://github.com/QuentinPetton/MediHub)
+- 🔐 Private deployment (for now)
+
+---
+
+### 🤖 [Julie AI](https://julie-ai.com/)
+
+> A customizable conversational AI agent management platform.  
+> 🛠️ Built collaboratively in an agile team using **Vue.js**, **Spring Boot**, and **PostgreSQL**.
+
+- 🌍 [Visit julie-ai.com](https://julie-ai.com/)
+
+---
+
+### 🌳 [Greenroots](https://greenroots.quentinpetton.com)
+
+> A green-focused e-commerce platform to promote tree planting and environmental initiatives.  
+> 🛠️ Built with **React**, **Node.js**, **Tailwind CSS**, **PostgreSQL**.
+
+- 🔗 [Frontend Repository](https://github.com/QuentinPetton/Greenroots_front)
+- 🔗 [Backend Repository](https://github.com/QuentinPetton/Greenroots_back)
+- 🌍 [Live Demo](https://greenroots.quentinpetton.com)
+
+
 ## 💻 Tech Stack:
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>   <a href="https://n8n.io" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" alt="n8n" width="90" height="40"/>
