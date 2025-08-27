@@ -19,10 +19,10 @@
 ### 🩺 [MediHub](https://github.com/QuentinPetton/MediHub)
 
 > A medical equipment management platform to handle rentals, maintenance (SAV), and purchase requests across EHPADs and medical suppliers.  
-> 🛠️ Built with **Angular 20**, **Spring Boot**, **PrimeNG**.
+> 🛠️ Built with **JavaScript Angular 20**, **Java Spring Boot**, **PrimeNG**, **n8n**.
 > Work in progress.
 
-- 💻 [GitHub Repository](https://github.com/QuentinPetton/MediHub)
+- 💻 [GitHub Monorepository](https://github.com/QuentinPetton/MediHub)
 - 🔐 Private deployment (for now)
 
 ---
