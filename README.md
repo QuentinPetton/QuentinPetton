@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.postimg.cc/x8p2gMfG/Banniere-Quentin-Petton-Github.png" alt="Quentin Petton Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Quentin Petton</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
