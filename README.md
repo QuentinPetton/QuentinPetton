@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://i.postimg.cc/x8p2gMfG/Banniere-Quentin-Petton-Github.png" alt="Quentin Petton Banner" />
+  <img src="https://i.postimg.cc/.../ma-banniere.png" alt="Bannière Quentin Petton" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Quentin Petton</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<h1 align="center">👋 Bonjour, je suis Quentin Petton</h1>
+<h3 align="center">Développeur Full Stack</h3>
 
-- 🔭 I’m currently working on [**MediHub**](https://github.com/QuentinPetton/MediHub), a **medical equipment management platform**, designed to simplify rental, purchase, and maintenance requests for EHPADs, healthcare providers (PSDM), and purchasing centers.
+- 🔭 Je travaille actuellement sur [**MediHub**](https://github.com/QuentinPetton/MediHub), une **plateforme de gestion de matériel médical**, destinée à simplifier les demandes de location, d’achat et de maintenance pour les EHPAD, prestataires (PSDM) et centrales d’achat.  
 
-- 🌱 I’m currently learning and deepening my knowledge in **Angular 20**, **Spring Boot 21**, and **n8n** for workflow automation and AI integration.
+- 🌱 J’approfondis mes connaissances en **Angular 20**, **Spring Boot 21**, et **n8n** pour l’automatisation de workflows et l’intégration de l’IA.  
 
-## 🌐 Socials
+## 🌐 Réseaux
 
 <p align="left">
   <a href="https://www.linkedin.com/in/quentin-petton" target="blank">
@@ -17,47 +17,60 @@
   </a>
 </p>
 
-
-## 🚀 Projects
+## 🚀 Projets
 
 ### 🩺 [MediHub](https://github.com/QuentinPetton/MediHub)
 
-> A medical equipment management platform to handle rentals, maintenance (SAV), and purchase requests across EHPADs and medical suppliers.  
-> 🛠️ Built with **JavaScript Angular 20**, **Java Spring Boot**, **PrimeNG**, **n8n**.
-> Work in progress.
+> Une plateforme de gestion de matériel médical permettant de gérer les locations, le SAV et les demandes d’achat entre EHPAD et prestataires.  
+> 🛠️ Développée avec **Angular 20**, **Spring Boot**, **PrimeNG**, **n8n**.  
+> 🚧 Projet en cours.  
 
-- 💻 [GitHub Monorepository](https://github.com/QuentinPetton/MediHub)
-- 🔐 Private deployment (for now)
+- 💻 [Monorepo GitHub](https://github.com/QuentinPetton/MediHub)  
+- 🔐 Déploiement privé (pour le moment)  
 
 ---
 
 ### 🤖 [Julie AI](https://julie-ai.com/)
 
-> A customizable conversational AI agent management platform.  
-> 🛠️ Built collaboratively in an agile team using **Vue.js**, **Spring Boot**, and **PostgreSQL**.
+> Une plateforme de gestion d’agents conversationnels IA personnalisables.  
+> 🛠️ Réalisée en équipe agile avec **Vue.js**, **Spring Boot**, **PostgreSQL**.  
 
-- 🌍 [Visit julie-ai.com](https://julie-ai.com/)
+- 🌍 [Visiter julie-ai.com](https://julie-ai.com/)  
 
 ---
 
 ### 🌳 [Greenroots](https://greenroots.quentinpetton.com)
 
-> A green-focused e-commerce platform to promote tree planting and environmental initiatives.  
-> 🛠️ Built with **React**, **Node.js**, **Tailwind CSS**, **PostgreSQL**.
+> Une plateforme e-commerce écologique pour promouvoir la reforestation et les initiatives durables.  
+> 🛠️ Développée avec **React**, **Node.js**, **Tailwind CSS**, **PostgreSQL**.  
 
-- 🔗 [Frontend Repository](https://github.com/QuentinPetton/Greenroots_front)
-- 🔗 [Backend Repository](https://github.com/QuentinPetton/Greenroots_back)
-- 🌍 [Live Demo](https://greenroots.quentinpetton.com)
+- 🔗 [Frontend](https://github.com/QuentinPetton/Greenroots_front)  
+- 🔗 [Backend](https://github.com/QuentinPetton/Greenroots_back)  
+- 🌍 [Démo en ligne](https://greenroots.quentinpetton.com)  
 
+---
 
-## 💻 Tech Stack:
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>   <a href="https://n8n.io" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" alt="n8n" width="90" height="40"/>
-  </a>
-</a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 💻 Stack technique
+<p align="left"> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+  <a href="https://n8n.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" alt="n8n" width="90" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+</p>
 
-## 📊 GitHub Stats
+---
+
+## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quentinpetton&show_icons=true&locale=en&layout=compact" alt="quentinpetton" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quentinpetton&show_icons=true&locale=fr&layout=compact" alt="Statistiques GitHub de Quentin Petton" />
 </p>
