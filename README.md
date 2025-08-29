@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.postimg.cc/x8p2gMfG/Banniere-Quentin-Petton-Github.png]" alt="Bannière Quentin Petton" />
+  <img src="https://i.postimg.cc/x8p2gMfG/Banniere-Quentin-Petton-Github.png" alt="Bannière Quentin Petton" />
 </p>
 
 <h1 align="center">👋 Bonjour, je suis Quentin Petton</h1>
