@@ -22,7 +22,7 @@
 ### 🩺 [MediHub](https://github.com/QuentinPetton/MediHub)
 
 > Une plateforme de gestion de matériel médical permettant de gérer les locations, le SAV et les demandes d’achat entre EHPAD et prestataires.  
-> 🛠️ Développée avec **Angular 20**, **Spring Boot**, **PrimeNG**, **n8n**.  
+> 🛠️ Développée avec **Angular 20**, **Java Spring Boot**, **PrimeNG**, **n8n**, **Docker**, **PostgreSQL**.  
 > 🚧 Projet en cours.  
 
 - 💻 [Monorepo GitHub](https://github.com/QuentinPetton/MediHub)  
@@ -49,6 +49,15 @@
 - 🌍 [Démo en ligne](https://greenroots.quentinpetton.com)  
 
 ---
+
+##  Exercices d’intégration (Frontend Mentor)
+
+-  Plus de 10 solutions publiées, totalisant **330 points** sur Frontend Mentor.
+-  Challenges variés pour aiguiser mes compétences en **HTML**, **CSS responsive**, **JavaScript** et **pixel-perfect**.
+-  [Voir mon profil Frontend Mentor](https://www.frontendmentor.io/profile/QuentinPetton)
+  
+---
+
 
 ## 💻 Stack technique
 <p align="left"> 
