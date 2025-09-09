@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://i.postimg.cc/x8p2gMfG/Banniere-Quentin-Petton-Github.png" alt="Bannière Quentin Petton" />
+  <img src="https://i.postimg.cc/GtNvjXvY/Banniere-Quentin-Petton-Linkedin.png" alt="Bannière Quentin Petton" />
 </p>
 
 <h1 align="center">👋 Bonjour, je suis Quentin Petton</h1>
-<h3 align="center">Développeur Full Stack</h3>
+<h3 align="center">Chef de Projet Digital</h3>
 
 - 🔭 Je travaille actuellement sur [**MediHub**](https://github.com/QuentinPetton/MediHub), une **plateforme de gestion de matériel médical**, destinée à simplifier les demandes de location, d’achat et de maintenance pour les EHPAD, prestataires (PSDM) et centrales d’achat.  
 
